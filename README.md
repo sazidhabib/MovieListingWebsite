@@ -67,5 +67,9 @@ Live Demo- https://bdcinema.netlify.app
      (http://localhost:3000)
    
 
-   
+### Demo
+![homeMovie](https://github.com/user-attachments/assets/2f416605-e9b6-48b9-aeb6-476df0dfc3e1)
+![detailpage](https://github.com/user-attachments/assets/b8953230-6620-4c82-be99-e64e2e175327)
+![screencapture-bdcinema-netlify-app-watched-2024-11-23-18_41_04](https://github.com/user-attachments/assets/909ccd2e-36e3-48c1-94cc-8705851a86df)
+![screencapture-bdcinema-netlify-app-watch-later-2024-11-23-18_41_17](https://github.com/user-attachments/assets/639bd032-197d-45bd-b420-49c5bf17f661)
    
